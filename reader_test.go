@@ -6,7 +6,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/blorticus/go-mock-test"
+	"github.com/blorticus/go-test-mocks"
 )
 
 func TestReader(t *testing.T) {
